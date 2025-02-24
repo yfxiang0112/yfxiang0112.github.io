@@ -1,0 +1,8 @@
+title: Yuanfang Xiang's Homepage
+email: yf.xiang@smail.nju.edu.cn
+description: "Yuanfang Xiang's Homepage"
+baseurl: "" # leave this as empty unless you are using a subpath (e.g., /myproject)
+url: "https://yfxiang0112.github.io" # replace with your GitHub Pages URL
+
+theme: jekyll-theme-slate
+markdown: kramdown
