@@ -6,7 +6,7 @@ permalink: /
 <link rel="stylesheet" href="css/tooltip.css">
 
 
-# **Yuanfang Xiang**<span style="font-family: 'MingLiU';">&ensp;&ensp;/&ensp;&ensp;項 遠方</span>
+# **Yuanfang Xiang**<span>&ensp;&ensp;/&ensp;&ensp;項 遠方</span>{: .ming-liu-bold}
 
 > *(Also spelled as* Yüan-fang Hsiang*)*
 
