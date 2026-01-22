@@ -12,14 +12,38 @@ $lightGray: #EEEEEE;
 $paleGray: #DDDDDD;
 $darkGray: #333333;
 $darkerGray: #222222;
-$blue: #4183C4;
-$purple: #4141C4;
-$mahogany: #BD2C00;
+:root  {
+  --bg-color: #13161e;
+  --text-color: #c6b6a7;
+  --link-color: #f0b26f;
+  --accent-color: #f09a6f;
+  --footer-color: #43434d;
+  --gray: #999492;
+}
+
+
+/* Light theme */
+[data-theme="light"] {
+  --bg-color: #dfd5c8;
+  --text-color: #191e2e;
+  --link-color: #607ab6;
+  --accent-color: #79708e;
+  --footer-color: #c3b4ab;
+  --gray: #000
+}
+
+/* Sepia theme */
+//[data-theme="sepia"] {
+//  --bg-color: #f4ecd8;
+//  --text-color: #3a2f1d;
+//  --link-color: #8b4513;
+//  --accent-color: #b7791f;
+//}
 
 // Pagination colors
 $pagination-color: $darkGray;
-$pagination-hover-color: $blue;
-$pagination-active-bg: $blue;
+$pagination-hover-color: var(--link-color);
+$pagination-active-bg: var(--link-color);
 $pagination-active-color: $white;
 $pagination-separator-color: $paleGray;
 

@@ -80,7 +80,8 @@
             {% if site.copyright %}
             {{ site.copyright | markdownify }}
             {% else %}
-            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title | default: site.title }}. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/forever-jekyll/forever-jekyll" rel="nofollow">Forever Jekyll</a>.</p>
+            <p>&copy; Copyright {{ site.time | date: '%Y' }} Yuanfang Xiang. </p>
+            <p>Built with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/forever-jekyll/forever-jekyll" rel="nofollow">Forever Jekyll</a> on {{ site.time | date: '%D' }}.</p>
             {% endif %}
           </div>
         </footer>
@@ -116,18 +117,7 @@
                     ]});">
     </script>
 
-    <script src="/assets/scripts/darkmode-js.min.js"></script>
-    <script>
-      function addDarkmodeWidget() {
-        new Darkmode().showWidget();
-        window.addEventListener('load', addDarkmodeWidget);
-      }
-      const options = {
-        label: '🌓',
-      }
-      const darkmode = new Darkmode(options);
-            darkmode.showWidget();
-    </script>
+    {% include darkmode.html %}
 
   </body>
 </html>

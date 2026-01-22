@@ -3,10 +3,10 @@ layout: page
 permalink: /
 ---
 
-<link rel="stylesheet" href="css/tooltip.css">
+<link rel="stylesheet" href="/_sass/_tooltip.scss">
 
 
-# **Yuanfang Xiang**<span>&ensp;&ensp;/&ensp;&ensp;項 遠方</span>{: .ming-liu-bold}
+# **Yuanfang Xiang**<span>&ensp;/&ensp;項 遠方</span>{: .ming-liu-bold}
 
 > *(Also spelled as* Yüan-fang Hsiang*)*
 
@@ -19,6 +19,8 @@ permalink: /
     `AI 4 Science`, `Neuro-Symbolic AI`, `Computational & Systems Biology`  
     <br>
     <span class="tooltip">I aim to<span class="tooltiptext"> perhaps just *I dream to*, 🤣</span></span> develop computational methods that push further our understanding of *the complex world*, by building human-comprehensible AI systems solving scientific problems. I'm currently trying to realize this goal via `Machine Learning + Knowledge Reasoning` and `AI for Life Sciences`.
+
+- [**More**](/misc/2026/01/17/about-yfxiang/)
 
 ---
 <!-- ## Highlight Projects -->

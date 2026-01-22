@@ -44,17 +44,17 @@ navigation_links:
 
 # Footer icons
 footer_links:
-  - title: Feed
-    url: feed.xml
-    icon: fa fa-rss-square
-
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/yfxiang0112
-    icon: fa fa-linkedin-square
+  - title: Email
+    url: mailto:yf.xiang@smail.nju.edu.cn
+    icon: fa fa-envelope-square
 
   - title: GitHub
     url: https://github.com/yfxiang0112
     icon: fa fa-github-square
+  
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yfxiang0112
+    icon: fa fa-linkedin-square
 
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."

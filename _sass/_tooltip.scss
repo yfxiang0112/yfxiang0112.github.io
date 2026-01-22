@@ -2,7 +2,7 @@
   position: relative;
   display: inline-block;
   cursor: pointer;
-  color: #007acc;
+  color: var(--link-color);
 }
 
 .tooltip .tooltiptext {

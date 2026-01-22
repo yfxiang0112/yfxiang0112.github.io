@@ -1,0 +1,54 @@
+#theme-toggle {
+  position: fixed;
+  bottom: 2.5rem;
+  right: calc((100vw - min(70ch, 100vw)) / 2 - 3rem);
+  /* aligns slightly right of text column */
+
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem; /* rounded square */
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: var(--accent-color);
+  color: var(--bg-color);
+
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease,
+    transform 0.15s ease;
+}
+
+#theme-toggle:hover {
+  transform: translateY(-2px);
+}
+
+/* Icons */
+#theme-toggle .icon {
+  position: absolute;
+  font-size: 1.25rem;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+/* Default: light mode */
+:root #theme-toggle .moon {
+  opacity: 0;
+  transform: scale(0.8);
+}
+
+/* Dark mode */
+[data-theme="dark"] #theme-toggle .sun {
+  opacity: 0;
+  transform: scale(0.8);
+}
+
+[data-theme="dark"] #theme-toggle .moon {
+  opacity: 1;
+  transform: scale(1);
+}
