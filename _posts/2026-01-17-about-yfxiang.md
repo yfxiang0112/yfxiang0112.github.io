@@ -3,8 +3,9 @@ layout: post
 title:  "More About yfxiang"
 date:   2026-01-17 15:00:00 +0800
 categories: misc
-excerpt: More about Yuanfang Xiang - additional information, hobbies, etc.
+excerpt: "More about Yuanfang Xiang: detailed information, hobbies, etc."
 ---
+<br>
 
 - Pronoun: **Any**
 

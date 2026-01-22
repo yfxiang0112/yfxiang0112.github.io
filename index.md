@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-# **Yuanfang Xiang**<span>&ensp;/&ensp;項 遠方</span>{: .ming-liu-bold}
+# **Yuanfang Xiang**<span>&ensp;/&ensp;項&ensp;遠方</span>{: .ming-liu-bold}
 
 > *(Also spelled as* Yüan-fang Hsiang*)*
 

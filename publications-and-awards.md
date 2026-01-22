@@ -5,7 +5,7 @@ order: 2
 permalink: /publications-and-awards/
 ---
 
-## Publications
+# Publications
 
 - **Y. Xiang**, L. Ai, Adaptive Data-Knowledge Alignment in Genetic Perturbation Prediction, In *International Conference on Learning Representations*, 2026 (Under Review, [Preprint](https://arxiv.org/abs/2510.00512))
 
@@ -13,7 +13,7 @@ permalink: /publications-and-awards/
 
 - J. Zhao, J. Liu, N. Zhang, J. Wang, L. Qin, **Y. Xiang**, J. Zhang, Q. Meng, X. Wang, W. Wei, Polyphosphate-driven metabolic network dynamically regulates bioelectricity generation in electroactive microorganism Shewanella, *Trends in Biotechnology*, 2025 (Under review)
 
-## Awards
+# Awards
 
 - Oct. 2025, **People's Scholarship**, Nanjing University
 - Aug. 2025, **Collegiate Computational Design Competition of China**, 2nd. Prize
