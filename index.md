@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /
+title: "Home"
 ---
 
 # **Yuanfang Xiang**<span>&ensp;/&ensp;項&ensp;遠方</span>{: .ming-liu-bold}
@@ -14,8 +15,7 @@ permalink: /
 
 - **Interests**  
     `AI 4 Science`, `Neuro-Symbolic AI`, `Computational & Systems Biology`  
-    <br>
-    <span>I aim to<span> perhaps just *I dream to*, 🤣</span>{: .tooltiptext}</span>{: .tooltip} develop computational methods that push further our understanding of *the complex world*, by building human-comprehensible AI systems solving scientific problems. I'm currently trying to realize this goal via `Machine Learning + Knowledge Reasoning` and `AI for Life Sciences`.
+    <span>I aim to<span> perhaps just *daydream to*, 🤣</span>{: .tooltiptext}</span>{: .tooltip} develop computational methods that push further our understanding of *the complex world*, by building human-comprehensible AI systems solving scientific problems. I'm currently trying to realize this goal via `Machine Learning + Knowledge Reasoning` and `AI for Life Sciences`.
 
 - [**More**](/misc/2026/01/17/about-yfxiang/)
 
@@ -23,6 +23,10 @@ permalink: /
 <!-- ## Highlight Projects -->
 
 ## Activities
+
+  - Jan. 2026, <span style="font-size: 22px;">🎉🎉**ACCEPTED BY ICLR '26 !**</span>  
+    Best gratitude to all those supported me and my attempts,  
+    Particularly thank *my Lover*, as well as all contributors to the project.
 
   - Dec. 2025 - , currently working at **Yangtze AI Lab** and Changzhou Synthetic Biology Institute, **BGI Genomics** for protein thermal-stability modelling facing biomanufacturing scenario.
 
