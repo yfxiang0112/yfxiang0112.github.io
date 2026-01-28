@@ -7,7 +7,7 @@ permalink: /publications-and-awards/
 
 # Publications
 
-- **Y. Xiang**, L. Ai, Adaptive Data-Knowledge Alignment in Genetic Perturbation Prediction, In *International Conference on Learning Representations*, 2026 (Under Review, [Preprint](https://arxiv.org/abs/2510.00512))
+- **Y. Xiang**, L. Ai, Adaptive Data-Knowledge Alignment in Genetic Perturbation Prediction, In *International Conference on Learning Representations*, 2026 (Accepted, [Preprint](https://arxiv.org/abs/2510.00512))
 
 - F. Pan, H. Li, J. You, J. Cang, Y. Zhang, **Y. Xiang**, C. Yu, L. Pan, Q. Zhang, Regulation of Endothelin Receptor Expression by MicroRNAs in the Corpus Cavernosum of Type 2 Diabetes Mellitus-Induced Erectile Dysfunction, *Biochemical Pharmacology*, 2025, [DOI:10.1016/j.bcp.2025.117397](https://www.doi.org/10.1016/j.bcp.2025.117397)
 
