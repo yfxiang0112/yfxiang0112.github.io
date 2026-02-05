@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Accepted by ICLR'26!"
+title:  "Aligned: Adaptive aLignment of Inconsistent Genetic kNowledgE and Data"
 date:   2026-01-27 14:00:00 +0800
 categories: ai4bio
 excerpt: "Best gratitude to all those supported me and my attempts. Particularly thank *my Love*, and all contributors to the project."
 ---
 
 # Our Work ALIGNED is Accepted by ICLR'26
-
 
 It's really delighted to have the opportunity to present our work at a high-impact conference in AI & ML, *the International Conference on Learning Representations (ICLR)*! This is my first time to publish a peer-reviewed academic output as first author.
 
@@ -20,4 +19,4 @@ ALIGNED follows my line of attempt in integrating biological knowledge bases wit
 <img src="/assets/image/2026_01_27_p2.png" width="80%" style="display: block; margin: 0 auto;">
 
 - We built a framework to solve inconsistencies between neural prediction of genetic perturbation response, driven by experimental data, and symbolic reasoning on prior knowledge of gene interactions.
-- [GitHub repo](https://github.com/yfxiang0112/Aligned) (⚠️ under preparation)
+- Welcome to take a look at our [GitHub repo](https://github.com/yfxiang0112/Aligned) and [ArXiv preprint](https://arxiv.org/abs/2510.00512)!
