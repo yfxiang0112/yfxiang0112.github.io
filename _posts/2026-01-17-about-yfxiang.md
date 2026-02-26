@@ -7,14 +7,14 @@ excerpt: "More about Yuanfang Xiang: detailed information, hobbies, etc."
 ---
 <br>
 
-- Pronoun: **Any** of <span>He/him, She/her, They/them, etc.<span>with no specific preference, just wrote in alphabetic order :)</span>{: .tooltiptext}</span>{: .tooltip}
+- Pronoun: **Any**.<!--  of <span>He/him, She/her, They/them, etc.<span>with no specific preference, just wrote in alphabetic order :)</span>{: .tooltiptext}</span>{: .tooltip} -->
 
 - Language:
     - Chinese
         - Mandarin (Northern) - native
         - Wu (Shanghai / Soochow) - a little bit
-    - English - fluent (Toefl 107)
-    - Japanese - slightly below fluent (JLPT N1)
+    - English - fluent <!--(Toefl 107)-->
+    - Japanese - slightly below fluent <!--(JLPT N1)-->
 
 ## Hobbies
 
